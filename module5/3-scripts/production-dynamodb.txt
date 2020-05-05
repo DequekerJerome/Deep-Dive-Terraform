@@ -6,10 +6,10 @@
     "S": "t2.small"
   },
   "asg_max_size": {
-    "S": "3"
+    "S": "10"
   },
   "asg_min_size": {
-    "S": "10"
+    "S": "3"
   },
   "billing_code": {
     "S": "342647563"
